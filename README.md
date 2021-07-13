@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Portfolio](https://thehebi.github.io/updated-portfolio/)
+
+- 🌱 I’m currently learning how to code in the UW Coding BootCamp
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHebi)](https://github.com/anuraghazra/github-readme-stats)
