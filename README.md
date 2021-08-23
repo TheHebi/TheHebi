@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Portfolio](https://thehebi.github.io/updated-portfolio/)
+[Portfolio](https://njt-react-portfolio.herokuapp.com/)
 
 - 🌱 I’m currently learning how to code in the UW Coding BootCamp
 -  😄 Pronouns: he/him
