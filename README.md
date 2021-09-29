@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 [Portfolio](https://njt-react-portfolio.herokuapp.com/)
 
-- 🌱 I’m currently learning how to code in the UW Coding BootCamp
+- 🌱 UW Coding Bootcamp Graduate
 -  😄 Pronouns: he/him
+-  🔭 I’m currently working on learning Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHebi)](https://github.com/anuraghazra/github-readme-stats)
